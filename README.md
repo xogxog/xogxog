@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto%height=400&text=Taehyun's%Git)
+![header](https://capsule-render.vercel.app/api?type=slice&height=400&text=Taehyun's%Git)
 
 
 <!--
