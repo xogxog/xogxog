@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=slice&text=Taehyun's%Git&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&text=Taehyun%World!)
 
 <img src="https://komarev.com/ghpvc/?username=xogxog&label=Profile%20views&color=0e75b6&style=flat" alt="xogxog" />
 ##### ✨Info
