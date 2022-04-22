@@ -1,27 +1,27 @@
-### Hi there This is xogxog's GitHub👋
+## Hi there This is xogxog's GitHub👋
 
 ---
 
-
+<div align="center"> 
 
 [![xogxog's GitHub stats](https://github-readme-stats.vercel.app/api?username=xogxog&theme=tokyonight)](https://github.com/xogxog/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nasa0939)](https://solved.ac/nasa0939/)
 
-
+</div>
 
 ##### ✨Info
 
 ---
-
+<div align="center"> 
 <a href="https://www.instagram.com/xog_tt/" target="_blank"><img src="https://img.shields.io/badge/instagram-gray?style=plastic&logo=instagram&logoColor=#E4405F"/></a><a href="#" target="_blank"><img src="https://img.shields.io/badge/Gmail-gray?style=plastic&logo=gmail&logoColor=#E4405F"/></a>
 
-
+</div>
 
 ##### 🛠 Skills
 
 ---
 
-<div style="text-align: center;">
+<div align="center"> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
