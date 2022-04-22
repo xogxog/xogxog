@@ -1,10 +1,13 @@
-### Hi there 👋
+### Hi there This is xogxog's GitHub👋
 
 ---
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Taehyun World!&%20render&fontSize=90)
 
-<img src="https://komarev.com/ghpvc/?username=xogxog&label=Profile%20views&color=0e75b6&style=flat" alt="xogxog" />
+
+[![xogxog's GitHub stats](https://github-readme-stats.vercel.app/api?username=xogxog&theme=tokyonight)](https://github.com/xogxog/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nasa0939)](https://solved.ac/nasa0939/)
+
+
 
 ##### ✨Info
 
@@ -13,13 +16,6 @@
 <a href="https://www.instagram.com/xog_tt/" target="_blank"><img src="https://img.shields.io/badge/instagram-gray?style=plastic&logo=instagram&logoColor=#E4405F"/></a><a href="#" target="_blank"><img src="https://img.shields.io/badge/Gmail-gray?style=plastic&logo=gmail&logoColor=#E4405F"/></a>
 
 
-
-##### 👨‍💻Curr Stats
-
----
-
-[![xogxog's GitHub stats](https://github-readme-stats.vercel.app/api?username=xogxog&theme=tokyonight)](https://github.com/xogxog/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nasa0939)](https://solved.ac/nasa0939/)
 
 ##### 🛠 Skills
 
