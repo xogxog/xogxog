@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+---
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Taehyun World!&%20render&fontSize=90)
 
 <img src="https://komarev.com/ghpvc/?username=xogxog&label=Profile%20views&color=0e75b6&style=flat" alt="xogxog" />
@@ -15,12 +18,8 @@
 
 ---
 
-<div style="text-align: center;">
-	[![xogxog's GitHub stats](https://github-readme-stats.vercel.app/api?username=xogxog&theme=tokyonight)](https://github.com/xogxog/github-readme-stats)
-    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nasa0939)](https://solved.ac/nasa0939/)
-</div>
-
-
+[![xogxog's GitHub stats](https://github-readme-stats.vercel.app/api?username=xogxog&theme=tokyonight)](https://github.com/xogxog/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nasa0939)](https://solved.ac/nasa0939/)
 
 ##### 🛠 Skills
 
