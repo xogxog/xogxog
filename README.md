@@ -11,7 +11,8 @@
 
 ---
 <div align="center"> 
-<a href="https://www.instagram.com/xog_tt/" target="_blank"><img src="https://img.shields.io/badge/instagram-gray?style=plastic&logo=instagram&logoColor=#E4405F"/></a><a href="#" target="_blank"><img src="https://img.shields.io/badge/Gmail-gray?style=plastic&logo=gmail&logoColor=#E4405F"/></a>
+<a href="https://www.instagram.com/xog_tt/" target="_blank"><img src="https://img.shields.io/badge/instagram-gray?style=plastic&logo=instagram&logoColor=#E4405F"/></a><a href="#" target="_blank"><img src="https://img.shields.io/badge/Gmail-gray?style=plastic&logo=gmail&logoColor=#E4405F"/></a></a><a href="https://www.notion.so/4c0836ffe39f490cb9343a1f574b6830" target="_blank"><img src="https://img.shields.io/badge/Portfolio-gray?style=plastic&logo=notion&logoColor=#E4405F"/></a>
+
 
 </div>
 
